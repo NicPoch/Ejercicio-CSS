@@ -1,0 +1,16 @@
+h1{
+    color:red;
+}
+#headerBlue{
+    color: blue;
+}
+#headerOrange{
+    color: orange;
+}
+p{
+    text-align: center;
+}
+#parrafoEspecial{
+    font-weight: bold;
+    color: blue;
+}

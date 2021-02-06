@@ -1,0 +1,16 @@
+.inputText{
+    background-color: greenyellow;
+    width: 150px;
+    margin-bottom: 10px;    
+}
+#labelEdad{
+    color: orangered;
+    font-weight: bolder;
+    font-size: larger;
+}
+#inputInscribir{
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    background-color: white;
+}
+
